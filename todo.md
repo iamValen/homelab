@@ -1,0 +1,15 @@
+- [x] wireguard VPN
+- [x] Dynamic DNS
+- [ ] SSH Access Management
+- [ ] Proxmox Firewall
+- [ ] VMs/CTs Firewall
+- [ ] Automatic Updates
+- [ ] [[VLANs]]
+- [ ] Router
+- [ ] Reverse Proxy
+- [ ] IDS/IPS na Web VLAN
+- [ ] Self host Website
+- [ ] Camera monitorization
+- [ ] Music Media Server
+- [ ] Films/Series Media Server
+- [ ] SyncThing
