@@ -1,6 +1,11 @@
-- [ ] NAS (armazenamento centralizado)
+- [x] NAS (armazenamento centralizado)
+- [ ] navidrome
+- [ ] wake on lan
+- [ ] automate updates
+- [ ] automatic screenshots
+- [ ] backups
 - [ ] VPN (WireGuard)
-- [ ] Self hosting
+- [ ] Web Hosting
 - [ ] Media server (Music)
 - [ ] Minecraft Server
 

@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "build.md",
+                "file": "use.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "build"
+              "title": "use"
             }
           }
         ],
@@ -239,13 +239,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "4c10ad4d13687f40",
+  "active": "9b13140a8fd5e648",
   "lastOpenFiles": [
+    "Router/OpnSense Installation.md",
+    "Untitled.md",
+    "use.md",
+    "README.md",
+    "todo.md",
+    "build.md",
     "Router",
     "Server",
-    "todo.md",
-    "use.md",
-    "build.md",
     "setup.md",
     "Welcome.md"
   ]
