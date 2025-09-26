@@ -1,15 +1,21 @@
 # Desktop
-### Quick Start up
+
+### Setup
+Copy your peer config file (e.g. peer1.conf) to `/etc/wireguard`
+
+### Check Status
+`sudo wg`
+
+### Start up
 `sudo wg-quick up wg0`
 
 If it's already running stop it with
 
 `sudo wg-quick down <name of the .conf file> (without .conf)`
 
-### Setup
-Copy your peer config file (e.g. peer1.conf) to `/etc/wireguard`
-### Check Status
-`sudo wg`
+Example:
+
+`sudo wg-quick up peer2`
 
 ---
 
