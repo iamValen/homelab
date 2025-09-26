@@ -65,32 +65,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "use.md",
+                "file": "Server/Wireguard/VPN connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "use"
+              "title": "VPN connect"
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "fb66f00dccb4362f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "393b36d635b8702a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -241,9 +225,16 @@
   },
   "active": "9b13140a8fd5e648",
   "lastOpenFiles": [
+    "Server/Wireguard/Setup.md",
+    "Server/Wireguard/VPN connect.md",
+    "Server/Wireguard/Setup in Server.md",
+    "Server/TrueNAS/Share Storage.md",
+    "Server/Wireguard",
+    "use.md",
+    "Server/TrueNAS",
+    "Server/Untitled.md",
     "Router/OpnSense Installation.md",
     "Untitled.md",
-    "use.md",
     "README.md",
     "todo.md",
     "build.md",
