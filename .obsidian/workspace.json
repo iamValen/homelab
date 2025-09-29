@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Wireguard/VPN connect.md",
+                "file": "Router/Dynamic DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN connect"
+              "title": "Dynamic DNS"
             }
           }
         ],
@@ -225,22 +225,25 @@
   },
   "active": "9b13140a8fd5e648",
   "lastOpenFiles": [
-    "Server/Wireguard/Setup.md",
-    "Server/Wireguard/VPN connect.md",
-    "Server/Wireguard/Setup in Server.md",
+    "Router/OpnSense Installation.md",
+    "Router/Dynamic DNS.md",
+    "Server/Media/Setup.md",
     "Server/TrueNAS/Share Storage.md",
+    "Server/Wireguard/Setup in Server.md",
+    "Server/Media",
+    "Server/Wireguard/VPN connect.md",
+    "setup.md",
+    "Server/Wireguard/Setup.md",
     "Server/Wireguard",
     "use.md",
     "Server/TrueNAS",
     "Server/Untitled.md",
-    "Router/OpnSense Installation.md",
     "Untitled.md",
     "README.md",
     "todo.md",
     "build.md",
     "Router",
     "Server",
-    "setup.md",
     "Welcome.md"
   ]
 }
