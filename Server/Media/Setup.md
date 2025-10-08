@@ -22,3 +22,4 @@ services:
       - "/path/to/your/music/folder:/music:ro"
 ```
 4. Run docker compose: `docker compose up -d`
+5. `docker ps` to check containers

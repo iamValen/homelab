@@ -1,3 +1,4 @@
+This was a initial setup made in the server in a docker container before the router was built
 
 - Create a directory dedicated to the Wireguard docker-compose
 - Create `docker-compose.yml`
