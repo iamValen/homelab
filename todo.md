@@ -1,15 +1,27 @@
-- [x] wireguard VPN
-- [x] Dynamic DNS
+
 - [ ] SSH Access Management
-- [ ] Proxmox Firewall
+- [ ]  OPNsense Firewall
 - [ ] VMs/CTs Firewall
 - [ ] Automatic Updates
-- [ ] [[VLANs]]
-- [ ] Router
+- [ ] VLANs
+
+---
+
+
 - [ ] Reverse Proxy
-- [ ] IDS/IPS na Web VLAN
-- [ ] Self host Website
-- [ ] Camera monitorization
-- [ ] Music Media Server
-- [ ] Films/Series Media Server
+- [ ]  IDS/IPS na Web VLAN
 - [ ] SyncThing
+- [ ] Self-host Website
+
+---
+
+
+- [x] Wireguard VPN
+- [x]  Dynamic DNS
+- [x]  Router
+- [x] Films/Series Media Server – servidor de mídia extra
+- [x] Music Media Server – entretenimento e prática de containers
+- [ ] Obsidian Sync
+- [ ] Python Flask App in Docker – aprendizado de containers e apps
+- [ ] Camera monitorization – monitoramento de câmeras
+- [ ] Camera Setup - Person Recognition – reconhecimento de pessoas
