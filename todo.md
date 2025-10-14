@@ -9,7 +9,7 @@
 
 
 - [ ] Reverse Proxy
-- [ ]  IDS/IPS na Web VLAN
+- [ ] IDS/IPS na Web VLAN
 - [ ] SyncThing
 - [ ] Self-host Website
 

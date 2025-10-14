@@ -8,73 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "945911f35c8c0009",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d723cc01ceaf0c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "use.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "use"
-            }
-          },
-          {
-            "id": "87d30b1cfaf1fcc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "56d46202160ebcce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "setup"
-            }
-          },
-          {
             "id": "9b13140a8fd5e648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "Server/TrueNAS/Share Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Share Storage"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,20 +172,23 @@
   },
   "active": "9b13140a8fd5e648",
   "lastOpenFiles": [
-    "README.md",
-    "build.md",
-    "Router/Use ISP's router as Wi-Fi AP.md",
+    "Server/Docker/Untitled.md",
+    "todo.md",
+    "Server/Docker/Security.md",
+    "Server/Docker/Setup own Dockerfile.md",
+    "Server/Docker/Setup from docker-compose.yml.md",
+    "Server/TrueNAS/Share Storage.md",
     "Router/OpnSense Basic Setup.md",
     "Router/Firewall rules.md",
     "Router/Dynamic DNS.md",
-    "todo.md",
-    "Server/Media/Setup.md",
-    "Server/TrueNAS/Share Storage.md",
+    "README.md",
+    "build.md",
+    "Router/Use ISP's router as Wi-Fi AP.md",
     "Router/DHCP server.md",
     "Server/Wireguard/Setup in server.md",
     "Server/Wireguard/Setup in Server.md",
     "Server/Wireguard/VPN connect.md",
-    "Server/Media",
+    "Server/Docker",
     "setup.md",
     "Server/Wireguard",
     "use.md",
