@@ -7,10 +7,9 @@
 
 ---
 
-
 - [ ] Reverse Proxy
 - [ ] IDS/IPS na Web VLAN
-- [ ] SyncThing
+- [ ] NextCloud
 - [ ] Self-host Website
 
 ---

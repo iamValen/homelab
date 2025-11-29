@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/TrueNAS/Share Storage.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Share Storage"
+              "title": "todo"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "right": {
     "id": "dbc3162330de620a",
@@ -172,22 +172,22 @@
   },
   "active": "9b13140a8fd5e648",
   "lastOpenFiles": [
-    "Server/Docker/Untitled.md",
-    "todo.md",
-    "Server/Docker/Security.md",
-    "Server/Docker/Setup own Dockerfile.md",
-    "Server/Docker/Setup from docker-compose.yml.md",
-    "Server/TrueNAS/Share Storage.md",
+    "Router/ISC DHCP server.md",
+    "Router/Use ISP's router as Wi-Fi AP.md",
     "Router/OpnSense Basic Setup.md",
     "Router/Firewall rules.md",
     "Router/Dynamic DNS.md",
+    "Server/Docker/Setup own Dockerfile.md",
+    "Server/Docker/Untitled.md",
+    "Server/Docker/Setup from docker-compose.yml.md",
+    "Server/Docker/Security.md",
+    "Server/Wireguard/Docker Setup.md",
+    "Server/Wireguard/VPN connect.md",
+    "Server/TrueNAS/Share Storage.md",
+    "todo.md",
     "README.md",
     "build.md",
-    "Router/Use ISP's router as Wi-Fi AP.md",
-    "Router/DHCP server.md",
-    "Server/Wireguard/Setup in server.md",
     "Server/Wireguard/Setup in Server.md",
-    "Server/Wireguard/VPN connect.md",
     "Server/Docker",
     "setup.md",
     "Server/Wireguard",

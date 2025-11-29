@@ -1,3 +1,7 @@
+
+> Since I installed OPNsense as my main router OS and configured WireGuard with the OPNsense WireGuard plugin, I do not use this method anymore.
+> Using the plugin in OPNsense is more stable and is not required for the server machine to be running, only the router. 
+
 This was a initial setup made in the server in a docker container before the router was built
 
 - Create a directory dedicated to the Wireguard docker-compose

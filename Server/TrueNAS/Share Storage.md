@@ -12,7 +12,7 @@
 		`user:<NAS user>
 		`password:<NAS user password>`
 
-## Script in case fstab mount doesn't work on Boot
+## Script to make sure fstab mount work on Server Boot
 In some cases the system doesn't start or wait for the NAS to boot up and will not mount the shared storage correctly so this ensures that it's mounted automatically.
 
 1. `sudo nano /usr/local/bin/mount_nas_on_boot.sh`
