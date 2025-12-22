@@ -1,15 +1,15 @@
 
 - [ ] SSH Access Management
-- [ ]  OPNsense Firewall
+- [ ] OPNsense Firewall
 - [ ] VMs/CTs Firewall
 - [ ] Automatic Updates
 - [ ] VLANs
 
 ---
 
-- [ ] Reverse Proxy
+- [ ] [[Reverse Proxy]]
 - [ ] IDS/IPS na Web VLAN
-- [ ] NextCloud
+- [x] NextCloud
 - [ ] Self-host Website
 
 ---
