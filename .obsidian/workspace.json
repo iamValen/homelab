@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Wireguard/VPN connect.md",
+                "file": "Backups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN connect"
+              "title": "Backups"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Reverse Proxy.md",
+                "file": "to-do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Proxy"
+              "title": "to-do"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,19 +199,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "413bb670a2d29d48",
+  "active": "c55c3d5bc15be4ab",
   "lastOpenFiles": [
-    "Server/Wireguard/Docker Setup.md",
+    "Network/Reverse Proxy.md",
+    "setup.md",
+    "Untitled.md",
+    "Backups.md",
+    "build.md",
+    "README.md",
+    "to-do.md",
     "Server/Wireguard/VPN connect.md",
+    "Server/Wireguard/Docker Setup.md",
     "Server/TrueNAS/Share Storage.md",
     "Server/Docker/Setup own Dockerfile.md",
     "Server/Docker/Setup from docker-compose.yml.md",
     "Server/Docker/Security.md",
-    "ToDo.md",
-    "Network/Reverse Proxy.md",
-    "build.md",
-    "README.md",
-    "setup.md",
     "Server/nextcloud.md",
     "use.md",
     "Network/ISC DHCP server.md",
@@ -224,7 +226,6 @@
     "Server/Docker",
     "Server/Wireguard",
     "Server/TrueNAS",
-    "Untitled.md",
     "Network",
     "Server",
     "Welcome.md"
