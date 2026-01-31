@@ -1,6 +1,6 @@
 
 - [ ] Automatic Updates
-- [ ] 2 x 3D prints
+- [ ] 2 x 3D prints https://www.printables.com/search/models?ctx=models&q=ubiqiti+u6+pro 
 - [ ] SSH Access Management
 - [ ] VLANs
 - [ ] OPNsense Firewall
@@ -40,11 +40,9 @@
 ---
 
 - [ ] Router backup (system-level)
-- [ ] FIX WireGuard not being able to SSH into local LANs
-- [ ] FIX Nextcloud previews
-	- [ ] Mount NAS to Docker and Generate Preview for each file inside cloud (.HEIC, .MOV extensions)
-	- [ ] Cron job for it to generate it each week
-- [ ] Create OPNsense User
+- [x] FIX WireGuard not being able to SSH into local LANs
+- [x] FIX Nextcloud previews
+- [x] Create OPNsense User
 
 ---
 
