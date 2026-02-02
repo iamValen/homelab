@@ -40,7 +40,7 @@
 ---
 
 - [ ] Router backup (system-level)
-- [x] FIX WireGuard not being able to SSH into local LANs
+- [ ] FIX WireGuard not being able to SSH into local LANs
 - [x] FIX Nextcloud previews
 - [x] Create OPNsense User
 
