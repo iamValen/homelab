@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Nextcloud.md",
+                "file": "Server/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nextcloud"
+              "title": "SSH"
             }
           }
         ],
@@ -201,6 +201,10 @@
   },
   "active": "c55c3d5bc15be4ab",
   "lastOpenFiles": [
+    "to-do.md",
+    "Server/SSH.md",
+    "README.md",
+    "Server/Nextcloud.md",
     "Backups.md",
     "Network/Firewall rules.md",
     "Network/Dynamic DNS.md",
@@ -208,17 +212,14 @@
     "Network/Reverse Proxy.md",
     "Network/OpnSense Basic Setup.md",
     "Network/Use ISP's router as Wi-Fi AP.md",
-    "Server/Nextcloud.md",
     "Server/Backups.md",
     "Server/Wireguard/VPN connect.md",
     "Server/TrueNAS/Share Storage.md",
     "Server/Backups/Untitled.md",
-    "to-do.md",
     "Server/Backups",
     "setup.md",
     "Untitled.md",
     "build.md",
-    "README.md",
     "Server/Wireguard/Docker Setup.md",
     "Server/Docker/Setup own Dockerfile.md",
     "Server/Docker/Setup from docker-compose.yml.md",

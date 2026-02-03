@@ -1,5 +1,5 @@
 
-- [ ] Automatic Updates
+- [ ] Updates
 - [ ] 2 x 3D prints https://www.printables.com/search/models?ctx=models&q=ubiqiti+u6+pro 
 - [ ] SSH Access Management
 - [ ] VLANs
