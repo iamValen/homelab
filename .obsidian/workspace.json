@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Backups.md",
+                "file": "Backups.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,10 +201,10 @@
   },
   "active": "c55c3d5bc15be4ab",
   "lastOpenFiles": [
+    "Server/Backups.md",
     "Server/Wireguard/VPN connect.md",
     "Server/TrueNAS/Share Storage.md",
     "Backups.md",
-    "Server/Backups.md",
     "Server/Backups/Untitled.md",
     "to-do.md",
     "Server/Backups",
