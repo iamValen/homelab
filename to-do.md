@@ -1,7 +1,7 @@
 
-- [ ] Updates
+- [x] Updates
 - [ ] 2 x 3D prints https://www.printables.com/search/models?ctx=models&q=ubiqiti+u6+pro 
-- [ ] SSH Access Management
+- [x] SSH Access Management
 - [ ] VLANs
 - [ ] OPNsense Firewall
 - [ ] VMs/CTs Firewall
@@ -29,7 +29,7 @@
 
 # In depth
 
-- [ ] Backups of current config
+- [x] Backups of current config
 	- Router config
 	- Switch config (especially if VLANs will be added)
 	- DNS config (if separate service)
@@ -39,7 +39,7 @@
 
 ---
 
-- [ ] Router backup (system-level)
+- [x] Router backup (system-level)
 - [ ] FIX WireGuard not being able to SSH into local LANs
 - [x] FIX Nextcloud previews
 - [x] Create OPNsense User
