@@ -21,7 +21,6 @@
 - [ ] Camera monitorization – monitoramento de câmeras
 - [ ] Camera Setup - Person Recognition – reconhecimento de pessoas
 - [ ] Self-host Website
-- [ ] Self-host packet-flow
 - [ ] Self host game reviewer
 
 
