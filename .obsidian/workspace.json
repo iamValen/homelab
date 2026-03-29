@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d07635433a30b3c9",
+        "id": "fc162f42386a72d7",
         "type": "tabs",
         "children": [
           {
-            "id": "9b13140a8fd5e648",
+            "id": "1d86aa496f33c566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "docs/router/vlans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
-            }
-          },
-          {
-            "id": "413bb670a2d29d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backups.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Backups"
-            }
-          },
-          {
-            "id": "c55c3d5bc15be4ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to-do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "to-do"
-            }
-          },
-          {
-            "id": "6a2f988b7bf369c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server/Docker/Setup own Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup own Dockerfile"
+              "title": "vlans"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,39 +170,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a2f988b7bf369c7",
+  "active": "1d86aa496f33c566",
   "lastOpenFiles": [
-    "Server/Docker/Setup from docker-compose.yml.md",
-    "Server/Docker/Security.md",
-    "Server/Nextcloud.md",
-    "Server/SSH.md",
-    "to-do.md",
-    "Backups.md",
+    "ROADMAP.md",
+    "docs/router/setup.md",
     "README.md",
-    "REFORMAT NOTES.md",
+    "OLDnotes/Server/Docker/Setup own Dockerfile.md",
+    "docs/router/vlans.md",
+    "docs/server/services/README.md",
+    "docs/server/services/TrueNAS.md",
+    "OLDnotes/REFORMAT NOTES.md",
+    "OLDnotes/to-do.md",
+    "OLDnotes/README.md",
+    "OLDnotes/Backups.md",
+    "OLDnotes/Server/Wireguard/VPN connect.md",
+    "OLDnotes/Server/Wireguard/Docker Setup.md",
+    "OLDnotes/Server/TrueNAS/Share Storage.md",
+    "OLDnotes/Server/Docker/Setup from docker-compose.yml.md",
+    "OLDnotes/Server/Docker/Security.md",
+    "docs/server/vms.md",
+    "docs/server/setup.md",
+    "docs/router/wireguard.md",
+    "docs/server/backups.md",
+    "docs/server/services",
+    "runbooks",
+    "configs",
+    "docs/architecture.md",
+    "docs/router",
+    "docs/server",
+    "docs",
+    "OLDnotes",
+    "OLDnotes/Server/Nextcloud.md",
+    "OLDnotes/Server/SSH.md",
     "build.md",
-    "Network/Firewall rules.md",
-    "Network/Dynamic DNS.md",
-    "Network/ISC DHCP server.md",
-    "Network/Reverse Proxy.md",
-    "Network/OpnSense Basic Setup.md",
-    "Network/Use ISP's router as Wi-Fi AP.md",
-    "Server/Backups.md",
-    "Server/Wireguard/VPN connect.md",
-    "Server/TrueNAS/Share Storage.md",
-    "Server/Backups/Untitled.md",
+    "OLDnotes/Network/Firewall rules.md",
+    "OLDnotes/Network/Dynamic DNS.md",
     "Server/Backups",
-    "setup.md",
-    "Server/Wireguard/Docker Setup.md",
-    "Server/Docker/Setup own Dockerfile.md",
-    "use.md",
-    "Server/Docker/Untitled.md",
-    "Server/Wireguard/Setup in Server.md",
-    "Server/Docker",
-    "Server/Wireguard",
-    "Server/TrueNAS",
-    "Network",
-    "Server",
-    "Welcome.md"
+    "OLDnotes/Server/Docker",
+    "OLDnotes/Server/Wireguard"
   ]
 }
