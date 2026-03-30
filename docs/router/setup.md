@@ -1,4 +1,4 @@
-# Router Setup — OPNsense
+# Router Setup - OPNsense
 
 OPNsense is running as the main router and firewall for the homelab. It handles all inter-VLAN routing, firewall rules, DNS, VPN, and ad blocking.
 
