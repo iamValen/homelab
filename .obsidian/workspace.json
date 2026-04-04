@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OLDnotes/to-do.md",
+                "file": "docs/router/setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to-do"
+              "title": "setup"
             }
           }
         ]
@@ -172,15 +172,22 @@
   },
   "active": "1d86aa496f33c566",
   "lastOpenFiles": [
-    "ROADMAP.md",
-    "OLDnotes/to-do.md",
-    "docs/router/vlans.md",
-    "OLDnotes/REFORMAT NOTES.md",
+    "assets/Pasted image 20260405005226.png",
+    "assets/Pasted image 20260405003802.png",
+    "assets",
+    "Pasted image 20260405003653.png",
+    "Pasted image 20260405003656.png",
     "docs/router/setup.md",
+    "docs/router/vlans.md",
+    "docs/router/dmz.md",
+    "ROADMAP.md",
+    "Pasted image 20260405003525.png",
+    "Pasted image 20260405003517.png",
+    "OLDnotes/to-do.md",
+    "OLDnotes/REFORMAT NOTES.md",
     "docs/server/setup.md",
     "docs/server/services/README.md",
     "docs/router/wireguard.md",
-    "docs/router/dmz.md",
     "README.md",
     "OLDnotes/Server/Docker/Setup own Dockerfile.md",
     "docs/server/services/TrueNAS.md",
@@ -204,9 +211,7 @@
     "OLDnotes/Server/Nextcloud.md",
     "OLDnotes/Server/SSH.md",
     "build.md",
-    "OLDnotes/Network/Firewall rules.md",
     "Server/Backups",
-    "OLDnotes/Server/Docker",
-    "OLDnotes/Server/Wireguard"
+    "OLDnotes/Server/Docker"
   ]
 }

@@ -21,20 +21,28 @@ VLANs are trunked through a single interface to the server. See vlans.md for the
 
 ## Plugins Installed
 
-| Plugin       | Purpose                           |
-| ------------ | --------------------------------- |
-| os-wireguard | VPN for remote access             |
-|              |                                   |
+| Plugin      | Purpose                                        |
+| ----------- | ---------------------------------------------- |
+| os-ddclient | Add a Dynamic DNS register (used in Wireguard) |
+| os-wol      | Wake on LAN ethernet connected PCs             |
 
 ## DNS
 
 Using OPNsense as the local DNS resolver (Unbound). All VLANs use the router as their DNS server, which also lets the ad blocker work network-wide.
 
+Added some blocklists to the **Undbound DNS**:
+- AdGuard List
+- EasyList
+- EasyPrivacy
+- OISD - Domain Blocklist Big
+- Steven Black List
+
 ## DHCP
 
 Each VLAN has its own DHCP pool. The server and NAS have static leases so their IPs never change.
+Currently using Kea DHCP and the pools are specified in the attachment bellow.
 
-::::::::
+![[Pasted image 20260405005226.png]]
 
 ## Backups
 

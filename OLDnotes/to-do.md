@@ -47,7 +47,7 @@
 
 ---
 
-- [ ] Plan VLANs setup and look what has to change and future configs
+- [x] Plan VLANs setup and look what has to change and future configs
 	
 	Before applying:
 	- VLAN IDs
@@ -69,7 +69,7 @@
 ---
 
 - [ ] Router tweaks
-	- [ ] Ad block
+	- [x] Ad block
 	- [ ] IDS/IPS
 	- [ ] Firewall rules
 
