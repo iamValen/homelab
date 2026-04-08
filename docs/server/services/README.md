@@ -17,9 +17,9 @@ Overview of all self-hosted services running on the Proxmox server.
 
 ## Planned
 
-| Service | Purpose                    | Status      |
-| ------- | -------------------------- | ----------- |
-| Grafana | Dashboards / observability | Planned     |
+| Service | Purpose                    | Status  |
+| ------- | -------------------------- | ------- |
+| Grafana | Dashboards / observability | Planned |
 
 ## Notes
 
