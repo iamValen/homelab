@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROADMAP.md",
+                "file": "docs/router/setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROADMAP"
+              "title": "setup"
             }
           }
         ]
@@ -172,18 +172,18 @@
   },
   "active": "1d86aa496f33c566",
   "lastOpenFiles": [
-    "docs/router/setup.md",
-    "docs/server/services/README.md",
     "docs/router/vlans.md",
+    "docs/router/setup.md",
+    "assets/Pasted image 20260405005226.png",
+    "docs/router/dmz.md",
+    "ROADMAP.md",
+    "docs/server/services/README.md",
     "docs/server/services/Homarr.md",
     "docs/server/services/TrueNAS.md",
-    "assets/Pasted image 20260405005226.png",
     "assets/Pasted image 20260405003802.png",
     "assets",
     "Pasted image 20260405003653.png",
     "Pasted image 20260405003656.png",
-    "docs/router/dmz.md",
-    "ROADMAP.md",
     "Pasted image 20260405003525.png",
     "Pasted image 20260405003517.png",
     "OLDnotes/to-do.md",
@@ -211,7 +211,6 @@
     "OLDnotes",
     "OLDnotes/Server/Nextcloud.md",
     "OLDnotes/Server/SSH.md",
-    "build.md",
     "Server/Backups",
     "OLDnotes/Server/Docker"
   ]

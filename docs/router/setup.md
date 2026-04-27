@@ -12,10 +12,10 @@ OPNsense is running as the main router and firewall for the homelab. It handles 
 
 ## Interface Setup
 
-| Interface | Role      | Notes                          |
-| --------- | --------- | ------------------------------ |
-| igb0      | WAN       | DHCP from ISP                  |
-| re0       | LAN trunk | Tagged VLANs to Proxmox server |
+| Interface | Role      | Notes        |
+| --------- | --------- | ------------ |
+| igb0      | WAN       | from ISP     |
+| re0       | LAN trunk | Tagged VLANs |
 
 VLANs are trunked through a single interface to the server. See vlans.md for the full breakdown.
 
@@ -39,10 +39,9 @@ Added some blocklists to the **Undbound DNS**:
 
 ## DHCP
 
-Each VLAN has its own DHCP pool. The server and NAS have static leases so their IPs never change.
-Currently using Kea DHCP and the pools are specified in the attachment bellow.
+Each VLAN has its own DHCP pool. In [[vlans]] it's specified how VLANs are set.
+Some Server VMs and other devices are reserved with a static IP for better management.
 
-![[Pasted image 20260405005226.png]]
 
 ## Backups
 
