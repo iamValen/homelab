@@ -1,5 +1,6 @@
 ## In Progress
 
+- Full transition to vlans
 - Self-deployment pipeline
 
 ## Planned
