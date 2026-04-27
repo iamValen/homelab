@@ -13,6 +13,7 @@ The network is segmented into 6 VLANs to keep different types of traffic isolate
 |50|GUEST|Guest devices, internet only|
 |99|MGMT|Proxmox and OPNsense admin interfaces|
 
+> Current setup doesn't have MGMT - use GUEST wifi for daily devices and LAN for access to everything (planning to change in the future)
 ---
 
 ## Firewall Rules
@@ -69,9 +70,3 @@ Same idea as IOT. Guests get internet, that's it.
 :::
 
 ---
-## Roadmap
-
-- [ ] Create MGMT VLAN 99 on OPNsense
-- [ ] Move Proxmox web UI (port 8006) to MGMT segment
-- [ ] Move OPNsense admin interface to MGMT segment
-- [ ] Restrict MGMT access to a single trusted machine

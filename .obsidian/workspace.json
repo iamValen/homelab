@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/server/services/README.md",
+                "file": "docs/router/setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "setup"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "1d86aa496f33c566",
   "lastOpenFiles": [
+    "docs/server/services/README.md",
+    "docs/router/vlans.md",
+    "docs/server/services/Homarr.md",
     "docs/server/services/TrueNAS.md",
     "docs/router/setup.md",
     "assets/Pasted image 20260405005226.png",
@@ -179,7 +182,6 @@
     "assets",
     "Pasted image 20260405003653.png",
     "Pasted image 20260405003656.png",
-    "docs/router/vlans.md",
     "docs/router/dmz.md",
     "ROADMAP.md",
     "Pasted image 20260405003525.png",
@@ -187,7 +189,6 @@
     "OLDnotes/to-do.md",
     "OLDnotes/REFORMAT NOTES.md",
     "docs/server/setup.md",
-    "docs/server/services/README.md",
     "docs/router/wireguard.md",
     "README.md",
     "OLDnotes/Server/Docker/Setup own Dockerfile.md",
