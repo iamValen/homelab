@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/server/services/TrueNAS.md",
+                "file": "docs/router/vlans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TrueNAS"
+              "title": "vlans"
             }
           }
         ]
@@ -172,14 +172,15 @@
   },
   "active": "1d86aa496f33c566",
   "lastOpenFiles": [
-    "docs/server/services/README.md",
-    "docs/server/services/Homarr.md",
-    "docs/server/VMs.md",
     "docs/server/setup.md",
+    "docs/server/backups.md",
+    "docs/server/VMs.md",
+    "docs/router/vlans.md",
+    "docs/server/services/Homarr.md",
     "docs/server/services/TrueNAS.md",
+    "docs/server/services/README.md",
     "OLDnotes/Server/SSH.md",
     "docs/router/setup.md",
-    "docs/router/vlans.md",
     "assets/Pasted image 20260405005226.png",
     "docs/router/dmz.md",
     "ROADMAP.md",
@@ -201,7 +202,6 @@
     "OLDnotes/Server/TrueNAS/Share Storage.md",
     "OLDnotes/Server/Docker/Setup from docker-compose.yml.md",
     "OLDnotes/Server/Docker/Security.md",
-    "docs/server/backups.md",
     "docs/server/services",
     "runbooks",
     "configs",

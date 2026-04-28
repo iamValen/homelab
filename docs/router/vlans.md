@@ -1,6 +1,6 @@
 # VLANs
 
-The network is segmented into 6 VLANs to keep different types of traffic isolated from each other. The main goal is to make sure that if something gets compromised (say, an IoT device, a guest or the ), it can't reach anything sensitive.
+The network is segmented into 6 VLANs to keep different types of traffic isolated from each other. The main goals are to separate traffic and to make sure that if something gets compromised (say, an IoT device, a guest, a server or internal workstation), it can't reach outside of it's VLAN.
 
 ## Segments
 

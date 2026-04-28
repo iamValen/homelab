@@ -15,11 +15,9 @@ Proxmox is the main server running all VMs and LXC containers. It's also where t
 
 Proxmox uses Linux bridges to connect VMs and containers to the OPNsense VLANs. The physical NIC is connected to the router as a VLAN trunk, and each bridge maps to a VLAN.
 
-| Bridge | VLAN | Network |
-| ------ | ---- | ------- |
-| vmbr10 | 10   | LAN     |
-|        |      |         |
-|        |      |         |
+All VMs and Containers in Proxmox are in the SERVER VLAN with a few exceptions:
+- Proxmox is in the LAN
+- Exposed services are in the DMZ lan
 
 :::
 
