@@ -35,7 +35,7 @@ Proxmox uses Linux bridges to connect VMs and containers to the OPNsense VLANs. 
 
 Containers (LXC) are used for lightweight services where a full OS isn't needed, and VMs are used when the service needs its own kernel or better isolation, like the NAS or anything that needs direct hardware access, although I prefer to use VMs with docker installed to run containers.
 
-[[vms]] for the full list of what's running.
+[[VMs]] for the full list of what's running.
 
 ## Backups
 
